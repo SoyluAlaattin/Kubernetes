@@ -50,7 +50,7 @@ etcd is a distributed key-value store designed for distributed systems. It store
 etcd is a crucial component in modern distributed systems and is extensively used in cloud-based infrastructure and microservices architecture.
 
 ---
-![NGINX Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/Nginx.png)
+![NGINX Image](https://github.com/SoyluAlaattin/Kubernetes/raw/main/wiki-images/Nginx.png)
 
 ## NGINX
 
@@ -73,7 +73,7 @@ NGINX is a high-performance web server and reverse proxy that supports HTTP, HTT
 NGINX is widely used for high-traffic websites, microservices architectures, and cloud-based applications, offering scalable and efficient solutions.
 
 ---
-![vSphere CSI Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/cs%C4%B1.png)
+![vSphere CSI Image](https://github.com/SoyluAlaattin/Kubernetes/raw/main/wiki-images/cs%C4%B1.png)
 
 ## vSphere CSI (Container Storage Interface)
 
@@ -94,7 +94,7 @@ vSphere CSI allows container orchestration systems like Kubernetes to access sto
 vSphere CSI is a robust solution for integrating container-based applications with storage infrastructure in VMware vSphere environments, providing operational flexibility and shared infrastructure for virtual machines and containers.
 
 ---
-![Flow Aggregator Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/flow.jpeg)
+![Flow Aggregator Image](https://github.com/SoyluAlaattin/Kubernetes/raw/main/wiki-images/flow.jpeg)
 
 ## Flow Aggregator
 
@@ -113,7 +113,7 @@ Flow Aggregator is a software or device used for network traffic analysis and re
 Flow Aggregator is used in large networks, data centers, and cloud environments to manage and optimize network traffic, providing crucial insights into network performance and security.
 
 ---
-![Jenkins and GitLab Integration Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/jh-gitlab.jpeg)
+![Jenkins and GitLab Integration Image](https://github.com/SoyluAlaattin/Kubernetes/raw/main/wiki-images/jh-gitlab.jpeg)
 
 ## Jenkins and GitLab Integration (JH-GitLab)
 
@@ -132,7 +132,7 @@ Jenkins and GitLab integration combines continuous integration and deployment wi
 Jenkins and GitLab integration automates and streamlines software development processes, providing a reliable approach for software teams to collaborate and improve code quality.
 
 ---
-![FPGA Operator Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/fpga-op.png)
+![FPGA Operator Image](https://github.com/SoyluAlaattin/Kubernetes/raw/main/wiki-images/fpga-op.png)
 
 ## FPGA Operator
 
