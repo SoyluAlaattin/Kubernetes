@@ -1,9 +1,9 @@
 ---
-![Apache_Tomcat_logo svg](https://github.com/SoyluAlaattin/Kubernetes/assets/136907277/a46057cc-5eda-4d4f-a9d7-18f89d9c900f)
+image_url: https://github.com/SoyluAlaattin/Kubernetes/assets/136907277/a46057cc-5eda-4d4f-a9d7-18f89d9c900f
 
-***Tomcat***
+- title: Tomcat
 
-
+description: |
 Tomcat is an open-source web server and servlet container used to develop and host Java-based web applications. It has several key functions:
 
 1. **Servlet Container**: Supports Servlet and JSP (JavaServer Pages) technologies. Servlets are Java programs that generate dynamic web content.
