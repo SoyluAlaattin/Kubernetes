@@ -1,6 +1,5 @@
 # Descriptions of Kubernetes Technologies
 
-In this document, you can find descriptions of important technologies related to Kubernetes.
 
 ---
 
