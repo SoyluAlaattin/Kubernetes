@@ -1,7 +1,6 @@
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/assets/136907277/a46057cc-5eda-4d4f-a9d7-18f89d9c900f)
 
-***Tomcat***
+## Tomcat
 
 Tomcat is an open-source web server and servlet container used to develop and host Java-based web applications. It has several key functions:
 
@@ -24,9 +23,8 @@ Tomcat is an open-source web server and servlet container used to develop and ho
 Tomcat is widely used among Java developers and is often integrated with other web servers like Apache HTTP Server.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/Etcd_logo.png)
 
-***Etcd***
+## Etcd
 
 etcd is a distributed key-value store designed for distributed systems. It stores data as key-value pairs, providing easy access and retrieval.
 
@@ -47,9 +45,8 @@ etcd is a distributed key-value store designed for distributed systems. It store
 etcd is a crucial component in modern distributed systems and is extensively used in cloud-based infrastructure and microservices architecture.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/Nginx.png)
 
-***NGINX***
+## NGINX
 
 NGINX is a high-performance web server and reverse proxy that supports HTTP, HTTPS, SMTP, POP3, and IMAP protocols.
 
@@ -70,9 +67,8 @@ NGINX is a high-performance web server and reverse proxy that supports HTTP, HTT
 NGINX is widely used for high-traffic websites, microservices architectures, and cloud-based applications, offering scalable and efficient solutions.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/cs%C4%B1.png)
 
-***vSphere CSI (Container Storage Interface)***
+## vSphere CSI (Container Storage Interface)
 
 vSphere CSI allows container orchestration systems like Kubernetes to access storage resources in VMware vSphere infrastructure.
 
@@ -91,9 +87,8 @@ vSphere CSI allows container orchestration systems like Kubernetes to access sto
 vSphere CSI is a robust solution for integrating container-based applications with storage infrastructure in VMware vSphere environments, providing operational flexibility and shared infrastructure for virtual machines and containers.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/flow.jpeg)
 
-***Flow Aggregator***
+## Flow Aggregator
 
 Flow Aggregator is a software or device used for network traffic analysis and reporting. It has the following key functionalities:
 
@@ -110,9 +105,8 @@ Flow Aggregator is a software or device used for network traffic analysis and re
 Flow Aggregator is used in large networks, data centers, and cloud environments to manage and optimize network traffic, providing crucial insights into network performance and security.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/jh-gitlab.jpeg)
 
-***Jenkins and GitLab Integration (JH-GitLab)***
+## Jenkins and GitLab Integration (JH-GitLab)
 
 Jenkins and GitLab integration combines continuous integration and deployment with Git-based code hosting and collaboration. Key functions include:
 
@@ -129,9 +123,8 @@ Jenkins and GitLab integration combines continuous integration and deployment wi
 Jenkins and GitLab integration automates and streamlines software development processes, providing a reliable approach for software teams to collaborate and improve code quality.
 
 ---
-![](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/fpga-op.png)
 
-**FPGA Operator**
+## FPGA Operator
 
 FPGA Operator manages FPGA (Field-Programmable Gate Array) resources in Kubernetes, providing the following functionalities:
 
@@ -149,4 +142,3 @@ FPGA Operator manages FPGA (Field-Programmable Gate Array) resources in Kubernet
 
 FPGA Operator is valuable for Kubernetes-based applications in high-performance computing areas like AI, data processing, and network acceleration, enhancing FPGA resource efficiency and boosting application performance.
 
---- 
