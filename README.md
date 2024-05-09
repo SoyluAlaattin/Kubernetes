@@ -27,7 +27,7 @@ Tomcat is an open-source web server and servlet container used to develop and ho
 Tomcat is widely used among Java developers and is often integrated with other web servers like Apache HTTP Server.
 
 ---
-![Etcd Image](https://upload.wikimedia.org/wikipedia/labs/5/53/Etcd_logo.png)
+![Etcd Image](https://github.com/SoyluAlaattin/Kubernetes/blob/main/wiki-images/Etcd_logo.png)
 
 ## Etcd
 
